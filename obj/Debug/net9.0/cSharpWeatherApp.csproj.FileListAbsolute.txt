@@ -1,0 +1,14 @@
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\bin\Debug\net9.0\cSharpWeatherApp.exe
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\bin\Debug\net9.0\cSharpWeatherApp.deps.json
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\bin\Debug\net9.0\cSharpWeatherApp.runtimeconfig.json
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\bin\Debug\net9.0\cSharpWeatherApp.dll
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\bin\Debug\net9.0\cSharpWeatherApp.pdb
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\obj\Debug\net9.0\cSharpWeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\obj\Debug\net9.0\cSharpWeatherApp.AssemblyInfoInputs.cache
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\obj\Debug\net9.0\cSharpWeatherApp.AssemblyInfo.cs
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\obj\Debug\net9.0\cSharpWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\obj\Debug\net9.0\cSharpWeatherApp.dll
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\obj\Debug\net9.0\refint\cSharpWeatherApp.dll
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\obj\Debug\net9.0\cSharpWeatherApp.pdb
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\obj\Debug\net9.0\cSharpWeatherApp.genruntimeconfig.cache
+C:\Users\sarah\OneDrive\Desktop\Projects\cSharpWeatherApp\obj\Debug\net9.0\ref\cSharpWeatherApp.dll
